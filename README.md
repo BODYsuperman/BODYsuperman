@@ -20,7 +20,7 @@ Developer ｜ Vibe coding | All in AI | Problem Solver | Code Enthusiast |
 
 ---
 
-## 🌟 My Projects F
+## 🌟 My Projects
 - [Algorithm Learning Project](https://github.com/BODYsuperman/algorithm-learning-java)
 - [Java Learning Project](https://github.com/BODYsuperman/java-learning-roadmap)
 - [Tlias-Frontend](https://github.com/BODYsuperman/VUE-TLIAS-MANAGEMENT)
