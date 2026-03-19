@@ -2,7 +2,7 @@
 ### Hi there, I'm 👋 Alex
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Developer;Vibe+Coding;All+in+AI;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full Stack Developer;Vibe+Coding;All+in+AI;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,18 +15,29 @@
 </p>
 
 ## 👨‍💻 Tech with Alex
-Developer ｜ Vibe coding | All in AI | Problem Solver | Code Enthusiast |
+<p align="center">
+  <img src="https://img.shields.io/badge/-Full_Stack_Developer-4FC08D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vibe_Coding-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-All_in_AI-36BCF7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Problem_Solver-F7DF1E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Code_Enthusiast-9B59B6?style=for-the-badge&logoColor=white" />
+</p>
 
 🔗 [alexsuperman.cn](https://www.alexsuperman.cn/) — My personal website with blog posts about AI, indie hacking, and full-stack development.
 
-## 🛠 Tech Stack
+### 🌈 Tech Stack
 
-<p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
+
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -36,7 +47,7 @@ Developer ｜ Vibe coding | All in AI | Problem Solver | Code Enthusiast |
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BODYsuperman&theme=tokyonight" alt="Profile Details" />
@@ -73,5 +84,4 @@ Developer ｜ Vibe coding | All in AI | Problem Solver | Code Enthusiast |
 </div>
 
 > © 2026 Tech with Alex | All rights reserved
-```
----
+
