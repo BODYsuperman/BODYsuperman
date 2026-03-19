@@ -7,7 +7,7 @@
 </div>
 
 
-<p align="center">
+<p align="left">
     <a href="https://www.alexsuperman.cn/">
         <img src="https://img.shields.io/badge/个人网站-alexsuperman.cn-07C160?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
@@ -17,7 +17,7 @@
 </p>
 
 ## 👨‍💻 Tech with Alex
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Full_Stack_Developer-4FC08D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vibe_Coding-FF6B6B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-All_in_AI-36BCF7?style=for-the-badge&logoColor=white" />
