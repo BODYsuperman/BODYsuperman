@@ -6,10 +6,10 @@
  
  <p>
   <a href="https://www.alexsuperman.cn/" >
-   <img src="https://img.shields.io/badge/个人网站-alexsuperman.cn-07C160?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+   <img src="https://img.shields.io/badge/My Personal Blog-alexsuperman.cn-07C160?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
  </a>
  <a href="https://www.alexsuperman.cn/about/">
-   <img src="https://img.shields.io/badge/联系我-点击这里-0099ff?style=for-the-badge&logo=tencentqq" alt="Contact" />
+   <img src="https://img.shields.io/badge/Click here to contact me!-0099ff?style=for-the-badge&logo=tencentqq" alt="Contact" />
  </a>
 </p>
 </div>
