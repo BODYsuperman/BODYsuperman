@@ -34,6 +34,9 @@
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MAUI-5129B4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Android-3DDC242?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
