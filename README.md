@@ -1,13 +1,9 @@
 
 ### Hi there, I'm 👋 Alex
 
-<!-- 
+
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Vibe+Coding;All+in+AI;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
-</div>
-width 越大，文字越靠右 -->
-<div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Full+Stack+Developer;Vibe+Coding;All+in+AI;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
 </div>
 
 
@@ -21,7 +17,7 @@ width 越大，文字越靠右 -->
 </p>
 
 ## 👨‍💻 Tech with Alex
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-Full_Stack_Developer-4FC08D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vibe_Coding-FF6B6B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-All_in_AI-36BCF7?style=for-the-badge&logoColor=white" />
