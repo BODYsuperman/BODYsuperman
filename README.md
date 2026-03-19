@@ -2,7 +2,7 @@
 ### Hi there, I'm 👋 Alex
 
 <div align="center">
- <img style="margin-right: 20px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Vibe+Coding;All+in+AI;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
+ <img style="margin-left: 200px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Vibe+Coding;All+in+AI;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
  
  <p>
   <a href="https://www.alexsuperman.cn/" >
