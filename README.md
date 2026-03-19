@@ -7,7 +7,7 @@
 </div>
 
 
-<p align="center" style="margin-left: 50px;">
+<p align="center" style="margin-left: 40px;">
     <a  href="https://www.alexsuperman.cn/">
         <img src="https://img.shields.io/badge/个人网站-alexsuperman.cn-07C160?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
