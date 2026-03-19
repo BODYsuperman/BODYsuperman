@@ -2,18 +2,16 @@
 ### Hi there, I'm 👋 Alex
 
 <div align="center">
- <!-- 打字机动画 -->
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Vibe+Coding;All+in+AI;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
  
- <!-- 下面的链接，统一居中 -->
  <p>
-  <a href="https://www.alexsuperman.cn/">
+  <a href="https://www.alexsuperman.cn/" style="margin-left: 20px;">
    <img src="https://img.shields.io/badge/个人网站-alexsuperman.cn-07C160?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.alexsuperman.cn/about/">
+ </a>
+ <a href="https://www.alexsuperman.cn/about/">
    <img src="https://img.shields.io/badge/联系我-点击这里-0099ff?style=for-the-badge&logo=tencentqq" alt="Contact" />
-  </a>
- </p>
+ </a>
+</p>
 </div>
 
 ## 👨‍💻 Tech with Alex
