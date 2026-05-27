@@ -65,6 +65,7 @@
 </div>
 
 ## 🌟 My Projects
+- [MicroService Lab](https://github.com/BODYsuperman/microservice-lab)
 - [Algorithm Learning Project](https://github.com/BODYsuperman/algorithm-learning-java)
 - [Java Learning Project](https://github.com/BODYsuperman/java-learning-roadmap)
 - [Tlias-Frontend](https://github.com/BODYsuperman/VUE-TLIAS-MANAGEMENT)
