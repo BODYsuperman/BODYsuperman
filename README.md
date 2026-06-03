@@ -65,6 +65,7 @@
 </div>
 
 ## 🌟 My Projects
+- [LLM RAG Agent Lab](https://github.com/BODYsuperman/LLM-RAG-Agent-Lab)
 - [MicroService Lab](https://github.com/BODYsuperman/microservice-lab)
 - [Algorithm Learning Project](https://github.com/BODYsuperman/algorithm-learning-java)
 - [Java Learning Project](https://github.com/BODYsuperman/java-learning-roadmap)
