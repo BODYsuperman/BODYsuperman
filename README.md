@@ -38,7 +38,6 @@
     <img src="https://img.shields.io/badge/-Android-3DDC242?style=for-the-badge&logo=android&logoColor=white" />
     <img src="https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"" />
 </p>
 
 
@@ -48,7 +47,7 @@
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-6.x-47A248?logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"" />
 </p>
 
 ### 📊 GitHub Stats
