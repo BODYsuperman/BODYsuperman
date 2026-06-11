@@ -65,6 +65,7 @@
 </div>
 
 ## 🌟 My Projects
+- [SmartMed-LangChain4j-RAG](https://github.com/BODYsuperman/SmartMed-LangChain4j-RAG)
 - [LLM RAG Agent Lab](https://github.com/BODYsuperman/LLM-RAG-Agent-Lab)
 - [MicroService Lab](https://github.com/BODYsuperman/microservice-lab)
 - [Algorithm Learning Project](https://github.com/BODYsuperman/algorithm-learning-java)
