@@ -14,7 +14,7 @@
 </p>
 </div>
 
-## 👨‍💻 Tech with Alex
+## 👨‍💻 AI with Alex
 <p align="center">
   <img src="https://img.shields.io/badge/-Full_Stack_Developer-4FC08D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vibe_Coding-FF6B6B?style=for-the-badge&logoColor=white" />
