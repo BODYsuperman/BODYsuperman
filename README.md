@@ -89,5 +89,5 @@
     <img src="https://komarev.com/ghpvc/?username=BODYsuperman&color=brightgreen&style=for-the-badge" alt="Profile views" />
 </div>
 
-> © 2026 Tech with Alex | All rights reserved
+> © 2026 AI with Alex | All rights reserved
 
